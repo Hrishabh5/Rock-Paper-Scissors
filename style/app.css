@@ -1,7 +1,3 @@
-* {
-  font-size: 18px;
-}
-
 #start-game-btn {
   margin-top: 50px;
   position: relative;
@@ -15,6 +11,7 @@
 }
 
 button {
+  font-size: 18px;
   cursor: pointer;
   border-radius: 10px;
   margin: 0px 10px;
